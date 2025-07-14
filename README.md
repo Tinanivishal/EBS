@@ -87,17 +87,3 @@ yaml
 Copy
 Edit
 
----
-
-✅ Replace `https://github.com/your-github-username` with your actual GitHub profile URL.  
-✅ Commit this as `README.md` to your repo.
-
----
-
-If you'd like,  
-📍 I can also create:
-- `mount-ebs.sh` script file  
-- Diagram  
-- Or push this to GitHub for you  
-
-Just say **yes!** 🚀
